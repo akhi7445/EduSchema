@@ -23,3 +23,8 @@ Grade Management
 
 Input grades for assessments
 View grades for students
+
+
+Usage
+Run the Streamlit app:
+streamlit run app.py
